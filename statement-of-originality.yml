@@ -1,0 +1,14 @@
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+name:Zhewen Li
+uid:u6437091
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+      
+code:line 14, set background squares to images
+  - comment:inspired and used a piece of code structure from createImage on P5.js-reference with data changed.
+    url:https://p5js.org/reference/#/p5/createImage
+    licence:
+
